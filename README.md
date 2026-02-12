@@ -6,11 +6,11 @@ Từ điển Pháp Việt cho [Yomitan](https://yomitan.wiki/) này được xâ
 
 Preview:
 
-![](preview.png)
+![](preview/preview.png)
 
 *tra từ bằng cách di chuột và giữ phím Shift*
 
-![](preview2.png)
+![](preview/preview2.png)
 
 *hỗ trợ nhận diện dạng số nhiều*
 
